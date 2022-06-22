@@ -1,0 +1,34 @@
+六月 22, 2022 10:36:41 上午 org.apache.ibatis.logging.jdk14.Jdk14LoggingImpl debug
+详细: Logging initialized using 'class org.apache.ibatis.logging.jdk14.Jdk14LoggingImpl' adapter.
+六月 22, 2022 10:36:41 上午 book.manage.Main lambda$addStudent$0
+信息: 插入新添加一条学生信息Student(sid=0, name=小刚, sex=男, grade=2020)
+六月 22, 2022 10:38:46 上午 org.apache.ibatis.logging.jdk14.Jdk14LoggingImpl debug
+详细: Logging initialized using 'class org.apache.ibatis.logging.jdk14.Jdk14LoggingImpl' adapter.
+六月 22, 2022 10:38:47 上午 book.manage.Main lambda$addBook$1
+信息: 插入新添加一条书籍信息Book(bid=0, title=书2, desc=我是信息, price=2.0)
+六月 22, 2022 10:49:14 上午 org.apache.ibatis.logging.jdk14.Jdk14LoggingImpl debug
+详细: Logging initialized using 'class org.apache.ibatis.logging.jdk14.Jdk14LoggingImpl' adapter.
+六月 22, 2022 10:50:17 上午 org.apache.ibatis.logging.jdk14.Jdk14LoggingImpl debug
+详细: Logging initialized using 'class org.apache.ibatis.logging.jdk14.Jdk14LoggingImpl' adapter.
+六月 22, 2022 11:06:11 上午 org.apache.ibatis.logging.jdk14.Jdk14LoggingImpl debug
+详细: Logging initialized using 'class org.apache.ibatis.logging.jdk14.Jdk14LoggingImpl' adapter.
+六月 22, 2022 11:07:50 上午 org.apache.ibatis.logging.jdk14.Jdk14LoggingImpl debug
+详细: Logging initialized using 'class org.apache.ibatis.logging.jdk14.Jdk14LoggingImpl' adapter.
+六月 22, 2022 11:08:11 上午 org.apache.ibatis.logging.jdk14.Jdk14LoggingImpl debug
+详细: Logging initialized using 'class org.apache.ibatis.logging.jdk14.Jdk14LoggingImpl' adapter.
+六月 22, 2022 11:10:05 上午 org.apache.ibatis.logging.jdk14.Jdk14LoggingImpl debug
+详细: Logging initialized using 'class org.apache.ibatis.logging.jdk14.Jdk14LoggingImpl' adapter.
+六月 22, 2022 11:56:08 上午 org.apache.ibatis.logging.jdk14.Jdk14LoggingImpl debug
+详细: Logging initialized using 'class org.apache.ibatis.logging.jdk14.Jdk14LoggingImpl' adapter.
+六月 22, 2022 11:56:27 上午 org.apache.ibatis.logging.jdk14.Jdk14LoggingImpl debug
+详细: Logging initialized using 'class org.apache.ibatis.logging.jdk14.Jdk14LoggingImpl' adapter.
+六月 22, 2022 11:57:40 上午 org.apache.ibatis.logging.jdk14.Jdk14LoggingImpl debug
+详细: Logging initialized using 'class org.apache.ibatis.logging.jdk14.Jdk14LoggingImpl' adapter.
+六月 22, 2022 11:58:32 上午 org.apache.ibatis.logging.jdk14.Jdk14LoggingImpl debug
+详细: Logging initialized using 'class org.apache.ibatis.logging.jdk14.Jdk14LoggingImpl' adapter.
+六月 22, 2022 12:07:21 下午 org.apache.ibatis.logging.jdk14.Jdk14LoggingImpl debug
+详细: Logging initialized using 'class org.apache.ibatis.logging.jdk14.Jdk14LoggingImpl' adapter.
+六月 22, 2022 12:17:52 下午 org.apache.ibatis.logging.jdk14.Jdk14LoggingImpl debug
+详细: Logging initialized using 'class org.apache.ibatis.logging.jdk14.Jdk14LoggingImpl' adapter.
+六月 22, 2022 12:27:35 下午 org.apache.ibatis.logging.jdk14.Jdk14LoggingImpl debug
+详细: Logging initialized using 'class org.apache.ibatis.logging.jdk14.Jdk14LoggingImpl' adapter.
